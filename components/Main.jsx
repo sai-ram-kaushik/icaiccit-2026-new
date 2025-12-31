@@ -47,10 +47,11 @@ const Main = () => {
               19<sup>th</sup> November, 2026 - 20<sup>th</sup> November, 2026
             </p>
             <p className="text-2xl text-[#3FBA96] md:w-[800px] text-center font-bold mt-5">
-            Two-days, 19<sup>th</sup> Nov (Thursday) - 20<sup>th</sup> Nov. 2026 (Friday)
+              Two-days, 19<sup>th</sup> Nov (Thursday) - 20<sup>th</sup> Nov.
+              2026 (Friday)
             </p>
             <p className="text-xl text-[#3FBA96] md:w-[800px] text-center font-bold mt-3">
-            IEEE Delhi Section has agreed to be Technical Sponsor (under process)
+              IEEE Delhi Section approval is under process
             </p>
             <h3>
               Conference Theme: The future of innovation: Digital Technologies
