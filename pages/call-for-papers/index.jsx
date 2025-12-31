@@ -246,10 +246,13 @@ const index = () => {
               information in the Author Reg. Form). The authors acknowledge that
               accepted papers must be presented in person at the conference by
               the registered/paid authors of the accepted paper.
-              <p>
-                The Microsoft CMT service will be used for managing the
-                peer-reviewing process for this conference.
-              </p>
+            </p>
+            <p className="text-gray-600 text-lg mt-4 text-justify max-w-[700px]">
+              The Microsoft CMT service was used for managing the
+              peer-reviewing process for this conference. This service was
+              provided for free by Microsoft and they bore all expenses,
+              including costs for Azure cloud services as well as for software
+              development and support.
             </p>
           </div>
         </div>

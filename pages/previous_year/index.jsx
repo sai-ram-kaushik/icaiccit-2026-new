@@ -22,9 +22,9 @@ const PreviousYear = () => {
             <div className="text-gray-600 my-3 mt-14">
               <p className="text-justify leading-8 text-lg">
                 ICAICCIT-2025, provided a vibrant platform for international collaboration, with participants from diverse backgrounds converging to discuss the latest advancements in computing, communication, and information technology. The conference facilitated networking opportunities, fostering connections that are expected to lead to future collaborative research and projects. The conference featured a dynamic lineup of distinguished speakers, innovative presentations on the futuristic technologies to foster innovation, collaboration, and knowledge exchange. The conference helped in establishing scientific contacts between research groups and scientists from different countries for future joint research collaborations in the multi-disciplinary domains.
-                <p>
-                  ICAICCIT received 1024 papers Nationally and Internationally from more than 400 institutions and industry. 270 papers have been registered after a rigorous review process. Some of the notable contributors include Assa Abloy, New Haven-USA, Astana IT University Kazakhstan, Bradley University-USA, Chittagong University of Engineering & Technology-Bangladesh, Trine university-USA , University of East London Docklands Campus-UK , University of Virginia-USA and Wichita State University-USA , Damanhour University-Egypt, Faculty of Engineering and Technology, Sunway University-Malaysia, HCL Tech, Tata Consultancy Services, Sales Force. Inc, National Institute of Technology, Delhi, National Institute of Technology, Kurukshetra, National Institute of Technology, Calicut, C-DAC, Ministry of Electronics and Information Technology, Saveetha School of Engineering, Maharishi Markandeshwar Deemed to be University, Vellore Institute of Technology , Chennai, Bannet University , Noida , Hindustan Institute of Technology and Science (Deemed to be University), Tamil Nadu,  CEG Anna University Guindy, India  SRM Institute of Science & Technology, Chennai, India, Bharti Vidyapeeth's College of Engineering (Deemed to Be University), College of Engineering, Pune, Dr. Ambedkar Institute of Technology, Bengaluru, ABES Engineering College, Chandigarh University, Chitkara University etc.
-                </p>
+              </p>
+              <p className="text-justify leading-8 text-lg mt-4">
+                ICAICCIT received 1024 papers Nationally and Internationally from more than 400 institutions and industry. 270 papers have been registered after a rigorous review process. Some of the notable contributors include Assa Abloy, New Haven-USA, Astana IT University Kazakhstan, Bradley University-USA, Chittagong University of Engineering & Technology-Bangladesh, Trine university-USA , University of East London Docklands Campus-UK , University of Virginia-USA and Wichita State University-USA , Damanhour University-Egypt, Faculty of Engineering and Technology, Sunway University-Malaysia, HCL Tech, Tata Consultancy Services, Sales Force. Inc, National Institute of Technology, Delhi, National Institute of Technology, Kurukshetra, National Institute of Technology, Calicut, C-DAC, Ministry of Electronics and Information Technology, Saveetha School of Engineering, Maharishi Markandeshwar Deemed to be University, Vellore Institute of Technology , Chennai, Bannet University , Noida , Hindustan Institute of Technology and Science (Deemed to be University), Tamil Nadu,  CEG Anna University Guindy, India  SRM Institute of Science & Technology, Chennai, India, Bharti Vidyapeeth's College of Engineering (Deemed to Be University), College of Engineering, Pune, Dr. Ambedkar Institute of Technology, Bengaluru, ABES Engineering College, Chandigarh University, Chitkara University etc.
               </p>
             </div>
           </div>
@@ -53,20 +53,20 @@ const PreviousYear = () => {
             <div className="text-gray-600 my-3 mt-14">
               <p className="text-justify leading-8 text-lg">
                 ICAICCIT-2024 conference featured a dynamic lineup of distinguished speakers, innovative presentations on the futuristic technologies to foster innovation, collaboration, and knowledge exchange. The conference helped in establishing scientific contacts between research groups and scientists from different countries for future joint research collaborations in the multi-disciplinary domains.
-                <p>
-                  The conference received 1140 papers nationally and internationally, out of which 282 papers got accepted and 252 papers have been submitted to IEEE. Some of the notable contributors include Boston Consulting Group, Illinois University USA, Lewis University, Hanwha Q CELLS America Inc, University of Pittsburgh, US, Colorado Technical University, US Gwangju Metropolitan City, South Korea, University of North Texas Georgia, University of The Cumberlands, US Fresenius Medical Care, HCL Tech, Tata Consultancy Services, Sales Force. Inc, Velagapudi Ramakrishna Siddhartha Engineering College, Guru Gobind Singh Indraprastha University, Rajiv Gandhi Arts and Science College, Puducherry, Agni College of Technology, Vishwakarma Institute of Technology Pune JC Bose University, Bharati Vidyapeeth, College of Engineering, Pune, University of Bedfordshire, Warmadewa University, Amity University, Al-Balqa Applied University, etc.
-                </p>
-                <p>
-                  The proceedings of the ICAICCIT-2024 are available:
-                  <br />
-                  <a
-                    href="https://ieeexplore.ieee.org/xpl/conhome/10910943/proceeding"
-                    target="__blank"
-                    className="text-cyan-600 flex flex-wrap"
-                  >
-                    https://ieeexplore.ieee.org/xpl/conhome/10910943/proceeding
-                  </a>
-                </p>
+              </p>
+              <p className="text-justify leading-8 text-lg mt-4">
+                The conference received 1140 papers nationally and internationally, out of which 282 papers got accepted and 252 papers have been submitted to IEEE. Some of the notable contributors include Boston Consulting Group, Illinois University USA, Lewis University, Hanwha Q CELLS America Inc, University of Pittsburgh, US, Colorado Technical University, US Gwangju Metropolitan City, South Korea, University of North Texas Georgia, University of The Cumberlands, US Fresenius Medical Care, HCL Tech, Tata Consultancy Services, Sales Force. Inc, Velagapudi Ramakrishna Siddhartha Engineering College, Guru Gobind Singh Indraprastha University, Rajiv Gandhi Arts and Science College, Puducherry, Agni College of Technology, Vishwakarma Institute of Technology Pune JC Bose University, Bharati Vidyapeeth, College of Engineering, Pune, University of Bedfordshire, Warmadewa University, Amity University, Al-Balqa Applied University, etc.
+              </p>
+              <p className="text-justify leading-8 text-lg mt-4">
+                The proceedings of the ICAICCIT-2024 are available:
+                <br />
+                <a
+                  href="https://ieeexplore.ieee.org/xpl/conhome/10910943/proceeding"
+                  target="__blank"
+                  className="text-cyan-600 flex flex-wrap"
+                >
+                  https://ieeexplore.ieee.org/xpl/conhome/10910943/proceeding
+                </a>
               </p>
             </div>
           </div>
