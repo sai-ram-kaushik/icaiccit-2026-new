@@ -61,12 +61,12 @@ const Footer = () => {
           </div>
           <div className="flex flex-row gap-2 items-center text-sm text-white">
             <AiOutlineMail />
-            <p>icaiccit2025@mriu.edu.in</p>
+            <p>icaiccit2026@mriu.edu.in</p>
           </div>
         </div>
 
         <div className="flex items-center justify-center text-sm text-white">
-          Copyright &#169; ICAICCIT - 2025. All Rights Resevered
+          Copyright &#169; ICAICCIT - 2026. All Rights Resevered
         </div>
       </div>
     </div>

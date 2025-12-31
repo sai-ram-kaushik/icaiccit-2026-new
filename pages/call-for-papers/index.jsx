@@ -32,12 +32,12 @@ const index = () => {
               </p>
               <div className="text-gray-600 text-2xl mt-4 hover:text-cyan-600">
                 <a
-                  href="https://cmt3.research.microsoft.com/ICAICCIT2025"
+                  href="https://cmt3.research.microsoft.com/ICAICCIT2026"
                   target="_blank"
                   data-aos="fade-right"
                   className="text-[18px]"
                 >
-                  https://cmt3.research.microsoft.com/ICAICCIT2025
+                  https://cmt3.research.microsoft.com/ICAICCIT2026
                 </a>
               </div>
 
@@ -51,34 +51,34 @@ const index = () => {
                 <div className="mt-10 justify-center  flex text-gray-600">
                   <table className="text-gray-600">
                     <tr className="text-xl">
-                      <td>Paper Submission Deadline:</td>
+                      <td>Paper Submission Last Date:</td>
                       <td>
-                        30<sup>th</sup> August, 2025 (Revised)
+                        15<sup>th</sup> April, 2026
                       </td>
                     </tr>
                     <tr className="text-xl">
-                      <td>Acceptance Notification:</td>
+                      <td>Acceptance Notification Date:</td>
                       <td>
-                        25<sup>th</sup> September, 2025 (Revised)
+                        15<sup>th</sup> July, 2026
                       </td>
                     </tr>
                     <tr className="text-xl">
-                      <td>Camera Ready Paper Submission Deadline:</td>
+                      <td>Camera Ready Manuscript Deadline:</td>
                       <td>
-                        30<sup>th</sup> September, 2025 (Revised)
+                        30<sup>th</sup> August, 2026
                       </td>
                     </tr>
                     <tr className="text-xl">
-                      <td>Last Date for Registration:</td>
+                      <td>Conference Registration Deadline:</td>
                       <td>
-                        30<sup>th</sup> September, 2025
+                        20<sup>th</sup> September, 2026
                       </td>
                     </tr>
                     <tr className="text-xl">
                       <td>Conference Dates:</td>
                       <td>
-                        31<sup>st</sup> October, 2025 & 1<sup>st</sup> November,
-                        2025
+                        19<sup>th</sup> November, 2026 - 20<sup>th</sup> November,
+                        2026
                       </td>
                     </tr>
                   </table>
@@ -237,8 +237,8 @@ const index = () => {
               Review and <span>Publication of Manuscripts:</span>
             </p>
             <p className="text-gray-600 text-lg mt-8 text-justify max-w-[700px]">
-              All submitted manuscripts to ICAICCIT – 2025 shall be go through a
-              Double-blind reviewed by the ICAICCIT – 2025 TPC members on
+              All submitted manuscripts to ICAICCIT – 2026 shall be go through a
+              Double-blind reviewed by the ICAICCIT – 2026 TPC members on
               originality, technical correctness, relevance, and quality of
               presentation. An accepted paper must be presented at the
               conference venue by the author who registered/paid full author

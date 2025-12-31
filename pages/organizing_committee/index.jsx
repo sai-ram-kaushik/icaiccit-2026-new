@@ -104,14 +104,26 @@ const Skills = () => {
 
   const co_chair = [
     {
-      photo: "/images/organizing/mamta.jpeg",
-      designation: "Professor Head, CSE, SET, MRIIRS",
-      name: "Dr. Mamta Dahiya",
+      photo: "/images/co-chair/rashima.jpeg",
+      designation: "Director IQAC & Professor, MRIIRS",
+      name: "Dr. Rashima Mahajan",
     },
     {
-      photo: "/images/co-chair/rashima.jpeg",
-      designation: "Director IQAC, Professor , CSE, FET, MRIIIRS",
-      name: "Dr. Rashima Mahajan",
+      name: "Dr. Satyajeet Srivastava",
+      designation: "Professor, CSE Department, SET, MRIIRS",
+    },
+    {
+      name: "Dr. Sudhanshu Morya",
+      designation: "Professor, CSE Department, SET, MRIIRS",
+    },
+    {
+      photo: "/images/co-chair/supriya.jpg",
+      designation: "Professor, CSE Department, SET, MRIIRS",
+      name: "Dr. Supriya Panda",
+    },
+    {
+      name: "Dr. Ashu Verma",
+      designation: "Section Treasurer & Member-IEEE Delhi",
     },
   ];
 
@@ -119,32 +131,52 @@ const Skills = () => {
     {
       photo: "/images/convener/poonam.jpeg",
       designation: "Professor, CSE, SET, MRIIRS",
-      name: "Dr. Poonam Tanwar",
+      name: "Prof. (Dr.) Poonam Tanwar",
     },
   ];
 
   const organizing = [
     {
-      // photo: "/images/organizing/indu.jpg",
-      name: " Dr. Satyajeet Srivastava",
+      photo: "/images/organizing/indu.jpg",
+      name: "Dr. Indu Kashyap",
       designation: "Professor, CSE Department, SET, MRIIRS",
     },
     {
-      // photo: "/images/organizing/sahoo.jpg",
-      name: " Dr. Priyanka Rastogi",
-      designation: "Associate Professor, CSE Department, SET, MRIIRS.",
+      photo: "/images/organizing/sahoo.jpg",
+      name: "Dr. Ramesh Sahoo",
+      designation: "Associate Professor, CSE Department, SET, MRIIRS",
+    },
+    {
+      photo: "/images/organizing/deepa_bura.jpg",
+      name: "Dr. Deepa Bura",
+      designation: "Professor, CSE Department, SET, MRIIRS",
+    },
+    {
+      photo: "/images/organizing/poonam_nandal.jpg",
+      name: "Dr. Poonam Nandal",
+      designation: "Professor, CSE Department, SET, MRIIRS",
+    },
+    {
+      name: "Dr. Meeta Singh",
+      designation: "Professor, CSE Department, SET, MRIIRS",
+    },
+    {
+      name: "Dr. Shefali",
+      designation: "Associate Professor, CSE Department, SET, MRIIRS",
+    },
+    {
+      name: "Dr. Priyanka Rastogi",
+      designation: "Associate Professor, CSE Department, SET, MRIIRS",
+    },
+    {
+      name: "Dr. Kushagra",
+      designation: "Associate Professor, CSE Department, SET, MRIIRS",
     },
     {
       photo: "/images/organizing/munish.jpeg",
-      name: " Dr. Munesh Chandra Trivedi",
+      name: "Dr. Munesh Chandra Trivedi",
       designation:
-        "Associate Professor (CSE) ,NIT Agartala ( On Lien) ,Professor (CSE) ,PSSCIVE Bhopal",
-    },
-    {
-      photo: "/images/organizing/swapnil.jpeg",
-      name: "Dr. Swapnoneel Roy",
-      designation:
-        "Distinguished Professor of Computing, University of North Florida, US",
+        "Associate Professor (CSE), NIT Agartala (On Lien), Professor (CSE), PSSCIVE Bhopal",
     },
   ];
 
@@ -305,11 +337,13 @@ const Skills = () => {
               key={i}
               className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[16rem] h-[400px]  p-10 rounded-xl"
             >
-              <div className="flex items-center justify-center">
-                <div className="text-6xl group-hover:text-cyan-600">
-                  <img src={co_chair.photo} className="rounded-full" />
+              {co_chair.photo && (
+                <div className="flex items-center justify-center">
+                  <div className="text-6xl group-hover:text-cyan-600">
+                    <img src={co_chair.photo} className="rounded-full" />
+                  </div>
                 </div>
-              </div>
+              )}
               <p className="text-lg mt-2 text-gray-600">{co_chair.name}</p>
               <p className="text-lg mt-2 text-gray-600">
                 {co_chair.designation}
@@ -361,11 +395,13 @@ const Skills = () => {
               key={i}
               className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[18rem] h-[500px]  p-10 rounded-xl"
             >
-              <div className="flex items-center justify-center">
-                <div className="text-6xl group-hover:text-cyan-600">
-                  <img src={organizing.photo} className="rounded-full" />
+              {organizing.photo && (
+                <div className="flex items-center justify-center">
+                  <div className="text-6xl group-hover:text-cyan-600">
+                    <img src={organizing.photo} className="rounded-full" />
+                  </div>
                 </div>
-              </div>
+              )}
               <p className="text-lg mt-2 text-gray-600">{organizing.name}</p>
               <p className="text-lg mt-3 text-gray-600">
                 {organizing.designation}

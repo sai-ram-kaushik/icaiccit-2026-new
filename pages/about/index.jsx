@@ -96,8 +96,8 @@ const About = () => {
         <p
           className="text-[#de0650] my-3 text-2xl mt-14 font-bold font-playFair"
           data-aos="fade-right">
-          ICAICCIT - 2025 (3<sup className="text-[#de0650]">rd</sup>{" "}
-          International Conference on Advances in Computation,
+          ICAICCIT - 2026 (4<sup className="text-[#de0650]">th</sup>{" "}
+          International Conference on Advances in Computing,
           <br /> Communication and Information Technology)
         </p>
         <div
@@ -106,23 +106,7 @@ const About = () => {
           <div>
             <div className="text-gray-600 my-3 mt-8">
               <p className="text-justify leading-8 font-sans text-lg text-gray-600">
-                The main objective of <b>ICAICCIT-2025</b> is to invite all the
-                Academicians, Researchers, and industrialists worldwide to
-                participate and discuss the latest achievements in the advanced
-                field of computing like Advancement in the Artificial
-                Intelligence, Blockchain, Cyber Security, Distributed Computing
-                and Internet of Things. The main goal of the conference is to
-                provide a forum for high-quality reports on the state-of-the-art
-                Theory, Technology, and Applications of advanced fields of
-                computing as used in measurement, automation, and scientific
-                research, in industry and business. The initiative provides a
-                focused and highly interactive forum where both researchers and
-                technologists have the opportunity to present and discuss
-                leading research topics, developments, and future directions in
-                their areas of interest. The importance of the conference is its
-                vision to establish scientific contacts between research teams
-                and scientists from different countries for future joint
-                research collaborations.
+                <b>ICAICCIT-2026</b> is to invite all the Academicians, Researchers, and industrialists worldwide to participate and discuss the latest achievements in the advanced field of computing like Advancement in the Artificial Intelligence, Blockchain, Cyber Security, Distributed Computing and Internet of Things. The main goal of the conference is to provide a forum for high-quality reports on the state-of-the-art Theory, Technology, and Applications of advanced fields of computing as used in measurement, automation, and scientific research, in industry and business. The initiative provides a focused and highly interactive forum where both researchers and technologists have the opportunity to present and discuss leading research topics, developments, and future directions in their areas of interest. The importance of the conference is its vision to establish scientific contacts between research teams and scientists from different countries for future joint research collaborations.
               </p>
             </div>
           </div>

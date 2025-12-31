@@ -25,16 +25,16 @@ const Main = () => {
         <div className="flex flex-col-reverse md:flex-row items-center gap-14 justify-center w-full h-full">
           <div className="flex flex-col items-center justify-center gap-3">
             <h3 className="text-4xl sm:text-4xl md:text-4xl lg:text-8xl text-gray-600 font-playFair font-bold">
-              ICAICCIT - <span>2025</span>
+              ICAICCIT - <span>2026</span>
             </h3>
 
             <p className="text-3xl font-poppons text-center">
-              3<sup>rd</sup> International Conference on Advances in{" "}
+              4<sup>th</sup> International Conference on Advances in{" "}
             </p>
             <div className="text-2xl sm:text-2xl md:text-4xl lg:text-4xl font-bold mt-2">
               <Typed
                 strings={[
-                  "Computation",
+                  "Computing",
                   "Communication",
                   "Information Technology",
                 ]}
@@ -44,10 +44,13 @@ const Main = () => {
               />
             </div>
             <p className="text-3xl font-bold mt-10 text-gray-600 text-center">
-              31<sup>st</sup> October, 2025 and 1<sup>st</sup> November, 2025
+              19<sup>th</sup> November, 2026 - 20<sup>th</sup> November, 2026
             </p>
             <p className="text-2xl text-[#3FBA96] md:w-[800px] text-center font-bold mt-5">
-            IEEE Delhi section ( Technical Co-sponsor)  IEEE record no #68829
+            Two-days, 19<sup>th</sup> Nov (Thursday) - 20<sup>th</sup> Nov. 2026 (Friday)
+            </p>
+            <p className="text-xl text-[#3FBA96] md:w-[800px] text-center font-bold mt-3">
+            IEEE Delhi Section has agreed to be Technical Sponsor (under process)
             </p>
             <h3>
               Conference Theme: The future of innovation: Digital Technologies

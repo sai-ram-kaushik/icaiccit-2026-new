@@ -64,15 +64,15 @@ const Register = () => {
             <tbody>
               <tr>
                 <td className="text-lg font-bold">Full-Time Students</td>
-                <td>6,000</td>
-                <td>7,200</td>
+                <td>7,000</td>
+                <td>8,000</td>
                 <td>150</td>
                 <td>190</td>
               </tr>
 
               <tr>
                 <td className="text-lg font-bold">
-                  Faculty and Research Scholar
+                  Faculty & Research Scholars
                 </td>
                 <td>8,000</td>
                 <td>9,600</td>
@@ -99,20 +99,6 @@ const Register = () => {
           </table>
         </div>
 
-        <div className="flex flex-col justify-center items-center mt-4 text-gray-600 font-playFair">
-          <p>
-            <b>
-              *Author should pay registration amount as mentioned above + 18%
-              GST
-            </b>
-          </p>
-          <p>
-            <b>
-              *Paper registered up to 5 August 2025 will get early bird
-              registration discount of 10% on overall registration fee
-            </b>
-          </p>
-        </div>
 
         <div className="flex flex-col items-center justify-center">
           <h3 className="text-[#de0650] my-3 text-4xl mt-10 font-bold font-playFair">
