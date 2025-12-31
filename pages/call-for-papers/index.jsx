@@ -77,8 +77,8 @@ const index = () => {
                     <tr className="text-xl">
                       <td>Conference Dates:</td>
                       <td>
-                        19<sup>th</sup> November, 2026 - 20<sup>th</sup> November,
-                        2026
+                        19<sup>th</sup> November, 2026 - 20<sup>th</sup>{" "}
+                        November, 2026
                       </td>
                     </tr>
                   </table>
@@ -246,6 +246,10 @@ const index = () => {
               information in the Author Reg. Form). The authors acknowledge that
               accepted papers must be presented in person at the conference by
               the registered/paid authors of the accepted paper.
+              <p>
+                The Microsoft CMT service will be used for managing the
+                peer-reviewing process for this conference.
+              </p>
             </p>
           </div>
         </div>
