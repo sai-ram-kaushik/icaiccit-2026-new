@@ -40,60 +40,60 @@ const Register = () => {
           the inclusion of the paper in the conference proceedings.
         </p>
         {/* <p className="text-lg font-bold text-center max-w-[700px]">All accepted, registered & presented paper will be considered for publishing in Conference Proceedings by IEEE Explore, Scopus Index (IEEE Record Number #59806)</p> */}
-        <div className="mt-14 justify-center flex text-gray-600 ">
-          <table>
+        <div className="mt-14 justify-center flex text-gray-600 overflow-x-auto">
+          <table className="border-collapse">
             <thead>
               <tr>
-                <th></th>
-                <th colSpan="2" className="text-lg">
-                  For Indian Authors and Deligates (in INR)
+                <th className="border border-gray-300 px-4 py-2"></th>
+                <th colSpan="2" className="text-lg border border-gray-300 px-4 py-2">
+                  For Indian Authors and Delegates
                 </th>
-                <th colSpan="2" className="text-lg">
-                  For Foreign Authors and Deligates (in USD)
+                <th colSpan="2" className="text-lg border border-gray-300 px-4 py-2">
+                  For Foreign Authors and Delegates
                 </th>
               </tr>
 
               <tr className="text-lg">
-                <th></th>
-                <th>IEEE Member</th>
-                <th>General</th>
-                <th>IEEE Member</th>
-                <th>General</th>
+                <th className="border border-gray-300 px-4 py-2"></th>
+                <th className="border border-gray-300 px-4 py-2">IEEE Member</th>
+                <th className="border border-gray-300 px-4 py-2">General</th>
+                <th className="border border-gray-300 px-4 py-2">IEEE Member</th>
+                <th className="border border-gray-300 px-4 py-2">General</th>
               </tr>
             </thead>
             <tbody>
               <tr>
-                <td className="text-lg font-bold">Full-Time Students</td>
-                <td>7,000</td>
-                <td>8,000</td>
-                <td>150</td>
-                <td>190</td>
+                <td className="text-lg font-bold border border-gray-300 px-4 py-2">Full-Time Students</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">INR 7,000</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">INR 8,000</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">USD 150</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">USD 190</td>
               </tr>
 
               <tr>
-                <td className="text-lg font-bold">
-                  Faculty & Research Scholars
+                <td className="text-lg font-bold border border-gray-300 px-4 py-2">
+                  Faculty &amp; Research Scholars
                 </td>
-                <td>8,000</td>
-                <td>9,600</td>
-                <td>180</td>
-                <td>230</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">INR 8,000</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">INR 9,600</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">USD 180</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">USD 230</td>
               </tr>
 
               <tr>
-                <td className="text-lg font-bold">Industry</td>
-                <td>10,000</td>
-                <td>12,000</td>
-                <td>200</td>
-                <td>250</td>
+                <td className="text-lg font-bold border border-gray-300 px-4 py-2">Industry</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">INR 10,000</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">INR 12,000</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">USD 200</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">USD 250</td>
               </tr>
 
               <tr>
-                <td className="text-lg font-bold">Attendee only</td>
-                <td>3,000</td>
-                <td>4,000</td>
-                <td>50</td>
-                <td>90</td>
+                <td className="text-lg font-bold border border-gray-300 px-4 py-2">Attendee only</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">INR 3,000</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">INR 4,000</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">USD 50</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">USD 90</td>
               </tr>
             </tbody>
           </table>
