@@ -5,7 +5,7 @@ const Register = () => {
     <section className="py-10 text-gray-600" data-aos="fade-right">
       <div className="text-center flex flex-col items-center w-full">
         <h3 className="text-gray-600 md:text-5xl text-4xl md:mt-20 mt-28 font-bold font-playFair">
-          Registration <span>Details</span>
+          Registration <span>Fees</span>
         </h3>
 
         <div className="flex items-center justify-center mt-10">

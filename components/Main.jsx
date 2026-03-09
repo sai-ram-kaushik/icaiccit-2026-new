@@ -29,7 +29,7 @@ const Main = () => {
             </h3>
 
             <p className="text-3xl font-poppons text-center">
-              4<sup>th</sup> International Conference on Advances in{" "}
+              4<sup>th</sup> International conference on Advances in Computing, Communication and information technology, ICAICCIT-2026
             </p>
             <div className="text-2xl sm:text-2xl md:text-4xl lg:text-4xl font-bold mt-2">
               <Typed
@@ -49,9 +49,6 @@ const Main = () => {
             <p className="text-2xl text-[#3FBA96] md:w-[800px] text-center font-bold mt-5">
               Two-days, 19<sup>th</sup> Nov (Thursday) - 20<sup>th</sup> Nov.
               2026 (Friday)
-            </p>
-            <p className="text-xl text-[#3FBA96] md:w-[800px] text-center font-bold mt-3">
-              IEEE Delhi Section approval is under process
             </p>
             <h3>
               Conference Theme: The future of innovation: Digital Technologies

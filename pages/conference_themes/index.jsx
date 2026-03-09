@@ -5,7 +5,7 @@ const ConferenceTrack = () => {
     <section className="py-10 text-gray" data-aos="fade-right">
       <div className="text-center mt-14">
         <h3 className="text-gray-600 font-bold font-playFair text-4xl">
-          Conference <span>Themes & Tracks</span>
+          Conference <span>Theme and Technical Tracks</span>
         </h3>
       </div>
 

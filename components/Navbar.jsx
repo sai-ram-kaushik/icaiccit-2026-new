@@ -36,6 +36,10 @@ const Navbar = () => {
       link: "/organizing_committee",
     },
     {
+      name: "Technical Committee",
+      link: "/technical_committee",
+    },
+    {
       name: "Keynote Speakers",
       link: "/keynote-speakers",
     },
