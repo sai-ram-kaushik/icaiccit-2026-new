@@ -41,7 +41,7 @@ const TechnicalCommittee = () => {
         <p className="font-bold mb-2">Members</p>
         <MemberList
           members={[
-            "Dr. Ela Kumar, IGDTU, New Delhi",
+            "Dr. Ela Kumar, Vice-Chancellor of Jamshedpur Women's University",
             "Dr. Geeta Sikka, NIT, Jalandhar",
             "Dr. Yudhvir Singh, UIET, MDU Rohtak",
             "Dr. Priyanka, NIT, Kurukshetra",

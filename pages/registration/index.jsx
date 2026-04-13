@@ -64,7 +64,7 @@ const Register = () => {
             <tbody>
               <tr>
                 <td className="text-lg font-bold border border-gray-300 px-4 py-2">Full-Time Students</td>
-                <td className="border border-gray-300 px-4 py-2 text-center">INR 7,000</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">INR 6,800</td>
                 <td className="border border-gray-300 px-4 py-2 text-center">INR 8,000</td>
                 <td className="border border-gray-300 px-4 py-2 text-center">USD 150</td>
                 <td className="border border-gray-300 px-4 py-2 text-center">USD 190</td>
@@ -83,7 +83,7 @@ const Register = () => {
               <tr>
                 <td className="text-lg font-bold border border-gray-300 px-4 py-2">Industry</td>
                 <td className="border border-gray-300 px-4 py-2 text-center">INR 10,000</td>
-                <td className="border border-gray-300 px-4 py-2 text-center">INR 12,000</td>
+                <td className="border border-gray-300 px-4 py-2 text-center">INR 12,400</td>
                 <td className="border border-gray-300 px-4 py-2 text-center">USD 200</td>
                 <td className="border border-gray-300 px-4 py-2 text-center">USD 250</td>
               </tr>
