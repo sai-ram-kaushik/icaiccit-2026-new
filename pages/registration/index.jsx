@@ -10,7 +10,7 @@ const Register = () => {
 
         <div className="flex items-center justify-center mt-10">
           <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLSe50R0W5Th7D-XO-PRyhP2vVEgJ6ef1azQHLFDJLXinz1pNsQ/viewform?usp=sharing"
+            href="https://forms.gle/HFZfufonQsC4xBnAA"
             target="_blank"
           >
             <h3 className="text-[#de0650] text-2xl flex items-center gap-3 border-2 rounded-xl p-4 m-5 font-poppins text-center">
