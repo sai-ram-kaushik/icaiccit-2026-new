@@ -34,52 +34,29 @@ const Skills = () => {
     },
   ];
 
-  // const co_patrons = [
-  //   {
-  //     photo: "/images/co_patron/geeta.png",
-  //     designation: "Associate Dean,FET, MRIIRS",
-  //     name: "Dr. Geeta Nijhawan",
-  //   },
-  //   {
-  //     photo: "/images/co_patron/brijesh.jpeg",
-  //     designation: "Dean Academics, MRIIRS",
-  //     name: "Dr. Brijesh Kumar",
-  //   },
-  //   {
-  //     photo: "/images/co_patron/Sarita.jpg",
-  //     designation: "Executive Director & Dean Research, MRIIRS",
-  //     name: "Dr. Sarita Sachdeva",
-  //   },
-  //   {
-  //     photo: "/images/co_patron/nandini.jpeg",
-  //     designation: "Director, CDP, MRIIRS",
-  //     name: "Dr. Nandani",
-  //   },
-  // ];
-
   const co_patrons = [
     {
-      photo: "/images/patrons/naresh.jpg",
-      designation: "PVC, MRIIRS",
-      name: "Dr. Naresh Grover",
+      photo: "/images/co_patron/Sarita.jpg",
+      designation: "Registrar, MRIIRS",
+      name: "Dr. Meenakshi Khurana",
     },
     {
-      photo: "/images/patrons/pardeep.jpg",
-      designation: "Pro Vice Chancellor, MRIIRS",
-      name: "Dr. Pardeep Kumar",
+      photo: "/images/co_patron/nandini.jpeg",
+      designation: "Dean Academics, MRIIRS",
+      name: "Dr. Monika Goel",
     },
   ];
 
   const generalChair = [
     {
       photo: "/images/general_chair/Tapas.jpeg",
-      designation: "Associate Dean, HOD CSE(Spl), FET, MRIIRS",
+      designation: "Dean, Institute of Engineering & Technology, JK Lakshmipat University",
       name: "Dr. Tapas Kumar",
     },
-    {
-      photo: "/images/general_chair/joel.jpeg",
-      designation: "Federal University of Piauí (UFPI), Brazil",
-      name: "Prof.(Dr.) Joel J. P. C. Rodrigues",
+  {
+      photo: "/images/patrons/pardeep.jpg",
+      designation: "PVC & Dean, School of Engineering, MRIIRS",
+      name: "Dr. Pardeep Kumar",
     },
   ];
 
@@ -199,7 +176,7 @@ const Skills = () => {
           {chief_patron?.map((chief_patron, i) => (
             <div
               key={i}
-              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[18rem] h-[500px]  p-10 rounded-xl"
+              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[18rem] min-h-[500px]  p-10 rounded-xl"
             >
               <div className="flex items-center justify-center">
                 <div className="text-6xl group-hover:text-cyan-600">
@@ -227,7 +204,7 @@ const Skills = () => {
           {patrons?.map((patrons, i) => (
             <div
               key={i}
-              className="border-2 border-cyan-600 relative min-w-[32rem] max-w-[32rem] h-[700px]  p-10 rounded-xl"
+              className="border-2 border-cyan-600 relative min-w-[32rem] max-w-[32rem] min-h-[700px]  p-10 rounded-xl"
             >
               <div className="flex items-center justify-center">
                 <div className="text-6xl group-hover:text-cyan-600">
@@ -255,7 +232,7 @@ const Skills = () => {
           {co_patrons?.map((patrons, i) => (
             <div
               key={i}
-              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[16rem] h-[450px]  p-10 rounded-xl"
+              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[16rem] min-h-[450px]  p-10 rounded-xl"
             >
               <div className="flex items-center justify-center">
                 <div className="text-6xl group-hover:text-cyan-600">
@@ -283,7 +260,7 @@ const Skills = () => {
           {generalChair?.map((chair, i) => (
             <div
               key={i}
-              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[16rem] h-[350px]  p-10 rounded-xl"
+              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[16rem] min-h-[350px]  p-10 rounded-xl"
             >
               <div className="flex items-center justify-center">
                 <div className="text-6xl group-hover:text-cyan-600">
@@ -309,7 +286,7 @@ const Skills = () => {
           {chair?.map((chair, i) => (
             <div
               key={i}
-              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[16rem] h-[450px]  p-10 rounded-xl"
+              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[16rem] min-h-[450px]  p-10 rounded-xl"
             >
               <div className="flex items-center justify-center">
                 <div className="text-6xl group-hover:text-cyan-600">
@@ -335,7 +312,7 @@ const Skills = () => {
           {co_chair?.map((co_chair, i) => (
             <div
               key={i}
-              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[16rem] h-[400px]  p-10 rounded-xl"
+              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[16rem] min-h-[400px]  p-10 rounded-xl"
             >
               {co_chair.photo && (
                 <div className="flex items-center justify-center">
@@ -365,7 +342,7 @@ const Skills = () => {
           {convener?.map((convener, i) => (
             <div
               key={i}
-              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[16rem] h-[350px]  p-10 rounded-xl"
+              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[16rem] min-h-[350px]  p-10 rounded-xl"
             >
               <div className="flex items-center justify-center">
                 <div className="text-6xl group-hover:text-cyan-600">
@@ -393,7 +370,7 @@ const Skills = () => {
           {organizing?.map((organizing, i) => (
             <div
               key={i}
-              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[18rem] h-[500px]  p-10 rounded-xl"
+              className="border-2 border-cyan-600 relative min-w-[10rem] max-w-[18rem] min-h-[500px]  p-10 rounded-xl"
             >
               {organizing.photo && (
                 <div className="flex items-center justify-center">
