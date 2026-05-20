@@ -47,8 +47,7 @@ const Main = () => {
               19<sup>th</sup> November, 2026 - 20<sup>th</sup> November, 2026
             </p>
             <p className="text-2xl text-[#3FBA96] md:w-[800px] text-center font-bold mt-5">
-              Two-days, 19<sup>th</sup> Nov (Thursday) - 20<sup>th</sup> Nov.
-              2026 (Friday)
+              IEEE Delhi section ( Technical Co-sponsor) IEEE record no #72855
             </p>
             <h3>
               Conference Theme: The future of innovation: Digital Technologies
