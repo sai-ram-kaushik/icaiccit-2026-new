@@ -14,11 +14,11 @@ const Dates = () => {
         <table className="text-gray-600">
           <tr className="text-2xl">
             <td>Paper Submission Deadline:</td>
-            <td>30<sup>th</sup> June, 2024</td>
+            <td>5<sup>th</sup> August, 2026</td>
           </tr>
           <tr className="text-2xl">
             <td>Acceptance Notification:</td>
-            <td>15<sup>th</sup> September, 2024</td>
+            <td>30<sup>th</sup> August, 2026</td>
           </tr>
           <tr className="text-2xl">
             <td>Camera Ready Paper Submission Deadline:</td>

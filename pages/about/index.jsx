@@ -96,6 +96,42 @@ const About = () => {
         <p
           className="text-[#de0650] my-3 text-2xl mt-14 font-bold font-playFair"
           data-aos="fade-right">
+          VISION OF THE DEPARTMENT
+        </p>
+        <div
+          className="flex md:flex-row flex-col-reverse item-center md:gap-6 gap-12 px-10 max-w-6xl mx-auto"
+          data-aos="fade-right">
+          <div>
+            <div className="text-gray-600 my-3 mt-8">
+              <p className="text-justify leading-8 font-sans text-lg text-gray-600">
+                To empower the graduates to be technologically adept, innovative, self-motivated and responsible citizens, possessing human values and contribute significantly towards being a center of excellence in providing globally standard education, through a conducive Teaching and Research environment, that responds swiftly to the challenges of the ever changing world.
+              </p>
+            </div>
+          </div>
+        </div>
+        <p
+          className="text-[#de0650] my-3 text-2xl mt-14 font-bold font-playFair"
+          data-aos="fade-right">
+          MISSION OF THE DEPARTMENT
+        </p>
+        <div
+          className="flex md:flex-row flex-col-reverse item-center md:gap-6 gap-12 px-10 max-w-6xl mx-auto"
+          data-aos="fade-right">
+          <div>
+            <div className="text-gray-600 my-3 mt-8">
+              <ul className="text-justify leading-8 font-sans text-lg text-gray-600 list-disc list-outside pl-5 space-y-2">
+                <li>To achieve academic excellence by imparting in-depth knowledge to the students through effective pedagogies and hands-on experience on the latest tools and technologies.</li>
+                <li>To pursue interdisciplinary research that will serve the needs of the entire global community.</li>
+                <li>To prepare students to be continuous learners in a connected world and imbibe professional skills and ethical responsibilities in them.</li>
+                <li>To strengthen the Industry-Academia interface that will help the graduates to emerge as leaders in academics or an inspiring revolutionary in entrepreneurship.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <p
+          className="text-[#de0650] my-3 text-2xl mt-14 font-bold font-playFair"
+          data-aos="fade-right">
           ICAICCIT - 2026 (4<sup className="text-[#de0650]">th</sup>{" "}
           International Conference on Advances in Computing,
           <br /> Communication and Information Technology)
