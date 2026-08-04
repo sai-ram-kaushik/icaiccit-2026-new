@@ -78,25 +78,25 @@ const CallForPapers = () => {
                       <tr className="text-xl">
                         <td>Paper Submission Last Date:</td>
                         <td>
-                          5<sup>th</sup> August, 2026
+                          5<sup>th</sup> Sept, 2026
                         </td>
                       </tr>
                       <tr className="text-xl">
                         <td>Acceptance Notification Date:</td>
                         <td>
-                          30<sup>th</sup> August, 2026
+                          30<sup>th</sup> Sept, 2026
                         </td>
                       </tr>
                       <tr className="text-xl">
                         <td>Camera Ready Manuscript Deadline:</td>
                         <td>
-                          10<sup>th</sup> September, 2026
+                          10<sup>th</sup> Oct, 2026
                         </td>
                       </tr>
                       <tr className="text-xl">
                         <td>Conference Registration Deadline:</td>
                         <td>
-                          5<sup>th</sup> Oct, 2026
+                          20<sup>th</sup> Oct, 2026
                         </td>
                       </tr>
                       <tr className="text-xl">
