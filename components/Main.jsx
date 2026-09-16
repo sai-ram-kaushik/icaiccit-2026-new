@@ -116,7 +116,7 @@ const Main = () => {
             {/* CTA buttons */}
             <div className="hero-cta-group">
               <a
-                href="https://cmt3.research.microsoft.com/ICAICCIT-2024"
+                href="https://cmt3.research.microsoft.com/ICAICCIT2026"
                 target="_blank"
                 rel="noreferrer"
                 className="cta-primary"
