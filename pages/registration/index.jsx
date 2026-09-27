@@ -99,6 +99,9 @@ const Register = () => {
           </table>
         </div>
 
+        <p className="text-lg font-bold mt-6 text-red-600">
+          *Author should pay registration amount as mentioned above + 18% GST
+        </p>
 
         <div className="flex flex-col items-center justify-center">
           <h3 className="text-[#de0650] my-3 text-4xl mt-10 font-bold font-playFair">
