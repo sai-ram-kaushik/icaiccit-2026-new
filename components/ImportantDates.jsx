@@ -15,7 +15,7 @@ const dates = [
   { label: "Paper Submission Last Date",        value: <>5<sup>th</sup> Sept, 2026</> },
   { label: "Acceptance Notification Date",      value: <>30<sup>th</sup> Sept, 2026</> },
   { label: "Camera Ready Manuscript Deadline",  value: <>10<sup>th</sup> Oct, 2026</> },
-  { label: "Conference Registration Deadline",  value: <>20<sup>th</sup> Oct, 2026</> },
+  { label: "Conference Registration Deadline",  value: <>5<sup>th</sup> Oct, 2026</> },
   { label: "Conference Dates",                  value: <>19<sup>th</sup> – 20<sup>th</sup> November, 2026</> },
 ];
 
