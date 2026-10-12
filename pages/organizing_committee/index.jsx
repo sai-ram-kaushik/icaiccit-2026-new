@@ -219,7 +219,7 @@ const Skills = () => {
           ))}
         </div>
 
-        <p
+        {/* <p
           className="text-[#de0650] mt-20 text-3xl font-bold font-playFair"
           data-aos="fade-right"
         >
@@ -245,7 +245,7 @@ const Skills = () => {
               </p>
             </div>
           ))}
-        </div>
+        </div> */}
 
         <p
           className="text-[#de0650] mt-20 text-3xl font-bold font-playFair"
