@@ -35,10 +35,7 @@ const ConferenceTrack = () => {
             </tr>
             <tr>
               <th className="text-2xl text-gray-600 font-playFair px-5">
-                Track Chair : Prof. A. Murli Rao, IGNOU, New Delhi & Dr. Ekta
-                Gandotra, Associate Professor Department of Computer Science &
-                Engineering at Jaypee University of Information Technology,
-                Waknaghat, Solan
+                Track Chair : Prof. A. Murli Rao, Director, Indira Gandhi National Open University (IGNOU)  & Member  IEEE Computer Society Chapter. & Dr. Ekta Gandotra,  Department of Computer Science & Engineering, Jaypee University of Information Technology, Waknaghat, Solan & Member, IEEE Delhi Section Standing Committee – Technical & Professional Activities 
               </th>
             </tr>
             <tr className="text-2xl">
@@ -101,10 +98,7 @@ const ConferenceTrack = () => {
             </tr>
             <tr>
               <th className="text-2xl text-gray-600 font-playFair px-5">
-                Track Chair : Prof. M N Hoda, Director Bharati Vidyapeeth’s
-                Institute of Computer Applications & Management (BVICAM), (GGSIP
-                University, New Delhi) & Dr. Shyam Sunder Tyagi, Dean , Science
-                and Technology, Gurugram University
+                Track Chair : Prof. M N Hoda, Director Bharati Vidyapeeth’s Institute of Computer Applications & Management (BVICAM), (GGSIP University, New Delhi & Chair, IEEE Delhi Section. & Dr. Shyam Sunder Tyagi, Dean , Science and Technology, Gurugram University , Gurgaon & Chair, IEEE Systems, Man, and Cybernetics (SMC) Chapter, Delhi Section.
               </th>
             </tr>
             <tr className="text-2xl">
@@ -185,9 +179,8 @@ const ConferenceTrack = () => {
             </tr>
             <tr>
               <th className="text-2xl text-gray-600 font-playFair px-5">
-                Track Chair : Dr. Rajveer Singh Shekhawat, MIT, Jaipur & Prof.
-                Sneha Kabra Shaheed Rajguru College of Applied Sciences for
-                Women, University of Delhi
+                Track Chair : Dr. Rajveer Singh Shekhawat, Manipal University, Jaipur &  Section ExeCom member, IEEE & Prof.
+                Sneha Kabra, Shaheed Rajguru College of Applied Sciences for Women, University of Delhi  &  Chair, IEEE Solid-State Circuits Society Chapter, Delhi Section
               </th>
             </tr>
             <tr className="text-2xl">
@@ -234,8 +227,7 @@ const ConferenceTrack = () => {
             </tr>
             <tr>
               <th className="text-2xl text-gray-600 font-playFair px-5">
-                Track Chair : Dr. Mayank Singh , Dean (Research) at GL Bajaj
-                Institute of Technology and Management, Greater Noida
+                Track Chair : Dr. Mayank Singh ,Dean (Research) at Metro University Noida, UP, India & Senior Member IEEE
               </th>
             </tr>
             <tr className="text-2xl">

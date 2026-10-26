@@ -98,7 +98,7 @@ const ResourcePerson = () => {
           className="flex items-center justify-center mt-12 gap-10 flex-wrap"
           data-aos="fade-right"
         >
-          {resource?.map((resource, i) => (
+          {/* {resource?.map((resource, i) => (
             <div
               key={i}
               className="border-2 border-cyan-600 relative w-[20rem] h-[29rem]  p-10 rounded-xl"
@@ -117,7 +117,8 @@ const ResourcePerson = () => {
                 {resource.designation}
               </p>
             </div>
-          ))}
+          ))} */}
+          <h2>To be Declared</h2>
         </div>
       </div>
     </section>
