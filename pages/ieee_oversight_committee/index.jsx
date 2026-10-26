@@ -5,21 +5,21 @@ const index = () => {
     {
       name: "Prof. Vivek Shrivastava",
       designation:
-        "Lead Member Coordinator for ICAICCIT-2025 and Section Exec Com Member Co-opted & Member-IEEE Delhi Section STDCOM on T & P Act",
+        "(Lead Member Coordinator for ICAICCIT-2026 and Section Exec Com Member Co-opted & Member-IEEE Delhi Section STDCOM on T & P Act)",
     },
     {
       name: "Prof. Rajnish Sharma",
       designation:
-        "Section Vice Chair & Member-IEEE Delhi Section STDCOM on T & P Act.",
+        "(Section Vice Chair & Member-IEEE Delhi Section STDCOM on T & P Act)",
     },
     {
       name: "Dr. Ekta Gandotra",
-      designation: "Member-IEEE Delhi Section STDCOM on T & P Act",
+      designation: "(Member-IEEE Delhi Section STDCOM on T & P Act)",
     },
     {
       name: "Prof. Sneha Kabra",
       designation:
-        "(Section Secretary & Member-IEEE Delhi Section STDCOM on T & P Act)",
+        "Section Secretary, Interim Section Treasurer & Member-IEEE Delhi Section STDCOM on T & P Act)",
     },
   ];
 
