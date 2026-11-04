@@ -29,7 +29,7 @@ const KeynoteSpeakers = () => {
     },
     {
       name: "Dr. Mohammed Ishaq",
-      role: "Keynote Speaker & Guest of Honour",
+      role: "Keynote Speaker",
       badge: "Keynote Speaker",
       designation:
         "Professor, Department of Computer Science and Information Technology",
@@ -40,7 +40,7 @@ const KeynoteSpeakers = () => {
     },
     {
       name: "Dr. Muhammad Mokhzaini Bin Azizan",
-      role: "Keynote Speaker & Guest of Honour",
+      role: "Keynote Speaker",
       badge: "Keynote Speaker",
       designation: "Deputy Director (Research Grant Management Division)",
       affiliation:
