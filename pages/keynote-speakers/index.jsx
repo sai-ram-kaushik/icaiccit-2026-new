@@ -41,7 +41,7 @@ const KeynoteSpeakers = () => {
     {
       name: "Dr. Muhammad Mokhzaini Bin Azizan",
       role: "Keynote Speaker & Guest of Honour",
-      badge: "Guest of Honour",
+      badge: "Keynote Speaker",
       designation: "Deputy Director (Research Grant Management Division)",
       affiliation:
         "Research and Innovation Management Centre (RIMC), Universiti Sains Islam Malaysia (USIM), Malaysia",
