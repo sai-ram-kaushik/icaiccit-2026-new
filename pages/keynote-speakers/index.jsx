@@ -12,9 +12,25 @@ const KeynoteSpeakers = () => {
 
   const keynoteSpeakers2026 = [
     {
+      name: "Dr. Vivek Shrivastava",
+      role: "Guest of Honour",
+      badge: "Guest of Honour ",
+      designation: "Vice Chair",
+      affiliation: "IEEE Delhi Section, Professor and Dean (Planning & Development), NIT Uttarakhand",
+      photo: "/images/keynote_speakers/vivek.jpeg",
+    },
+    {
+      name: "Prof. M. N. Hoda",
+      role: "Guest of Honour",
+      badge: "Guest of Honour",
+      designation: "Director",
+      affiliation: "Bharati Vidyapeeth’s Institute of Computer Applications & Management (BVICAM), (GGSIP University, New Delhi) & Chairperson IEEE Delhi Section",
+      photo: "/images/keynote_speakers/hoda.jpeg",
+    },
+    {
       name: "Dr. Mohammed Ishaq",
       role: "Keynote Speaker & Guest of Honour",
-      badge: "Guest of Honour",
+      badge: "Keynote Speaker",
       designation:
         "Professor, Department of Computer Science and Information Technology",
       affiliation: "Jeddah International College, Saudi Arabia",
@@ -59,20 +75,20 @@ const KeynoteSpeakers = () => {
       photo: "/images/keynote_speakers/vasileios_paliktzoglou.jpg",
     },
     {
-      name: "Dr. Vivek Shrivastava",
-      role: "Guest of Honour",
-      badge: "Guest of Honour ",
-      designation: "Vice Chair",
-      affiliation: "IEEE Delhi Section, Professor and Dean (Planning & Development), NIT Uttarakhand",
-      photo: "/images/keynote_speakers/vivek.jpeg",
+      name: "Dr. Nabila Husna Shabrina",
+      role: "Keynote Speaker",
+      badge: "Keynote Speaker",
+      designation: "Head of Research and Innovation",
+      affiliation: "Associate Professor in Computer Engineering, Universitas Multimedia Nusantara, Indonesia",
+      photo: "/images/keynote_speakers/nabila.jpeg",
     },
     {
-      name: "Prof. M. N. Hoda",
-      role: "Guest of Honour",
-      badge: "Guest of Honour",
-      designation: "Director",
-      affiliation: "Bharati Vidyapeeth’s Institute of Computer Applications & Management (BVICAM), (GGSIP University, New Delhi) & Chairperson IEEE Delhi Section",
-      photo: "/images/keynote_speakers/hoda.jpeg",
+      name: "Prof. (Dr.)  Maheshi Dissanayake",
+      role: "Keynote Speaker",
+      badge: "Keynote Speaker",
+      designation: "Faculty of Engineering,",
+      affiliation: "University of Peradeniya, Sri Lanka",
+      photo: "/images/keynote_speakers/maheshi.jpeg",
     },
   ];
 
