@@ -50,7 +50,7 @@ const KeynoteSpeakers = () => {
     {
       name: "Dr. Ankit Agrawal",
       role: "Keynote Speaker",
-      badge: "Online",
+      badge: "Keynote Speaker",
       designation:
         "Research Professor, Department of Electrical and Computer Engineering",
       affiliation:
