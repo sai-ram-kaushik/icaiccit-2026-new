@@ -90,6 +90,14 @@ const KeynoteSpeakers = () => {
       affiliation: "University of Peradeniya, Sri Lanka",
       photo: "/images/keynote_speakers/maheshi.jpeg",
     },
+    {
+      name: "Clif Kussmaul",
+      role: "Keynote Speaker",
+      badge: "Keynote Speaker",
+      designation: "Principal Consultant,",
+      affiliation: "Green Mango Associates. LLC",
+      photo: "/images/keynote_speakers/clif.jpeg",
+    },
   ];
 
   const pastSpeakers2025 = [
