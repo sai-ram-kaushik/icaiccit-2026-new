@@ -178,12 +178,14 @@ const OrganizingCommittee = () => {
       badge: "Co-Chair",
     },
     {
+      photo: "/images/co-chair/satyajeet.jpeg",
       name: "Dr. Satyajeet Srivastava",
       designation: "Professor, CSE Department, SET, MRIIRS",
       role: "Co-Chair",
       badge: "Co-Chair",
     },
     {
+      photo: "/images/co-chair/sudhanshu.jpeg",
       name: "Dr. Sudhanshu Maurya ",
       designation: "Professor, CSE Department, SET, MRIIRS",
       role: "Co-Chair",
