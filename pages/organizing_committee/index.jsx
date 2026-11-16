@@ -184,7 +184,7 @@ const OrganizingCommittee = () => {
       badge: "Co-Chair",
     },
     {
-      name: "Dr. Sudhanshu Morya",
+      name: "Dr. Sudhanshu Maurya ",
       designation: "Professor, CSE Department, SET, MRIIRS",
       role: "Co-Chair",
       badge: "Co-Chair",
