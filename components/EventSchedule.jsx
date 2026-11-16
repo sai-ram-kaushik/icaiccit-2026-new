@@ -231,7 +231,7 @@ const EventSchedule = () => {
                 Online Presentation Tracks
               </h4>
               <p className="text-xs text-gray-500 mt-1">
-                11:00 AM – 2:00 PM · 18 Virtual Technical Sessions across AI, IT &
+                12:00 PM – 2:00 PM Onwards · 18 Virtual Technical Sessions across AI, IT &
                 Comm.
               </p>
             </div>
