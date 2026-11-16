@@ -213,7 +213,7 @@ const EventSchedule = () => {
                 In-Person / Offline Sessions
               </h4>
               <p className="text-xs text-gray-500 mt-1">
-                12:00 PM Onwards · Venues: TF02, TF03, TF11, TF16, TF25, TF10 (6
+                2:00 PM Onwards · Venues: TF02, TF03, TF11, TF16, TF25, TF10 (6
                 Sessions)
               </p>
             </div>
