@@ -126,6 +126,9 @@ const Main = () => {
                   <line x1="5" y1="12" x2="19" y2="12" /><polyline points="12 5 19 12 12 19" />
                 </svg>
               </a>
+              <a href="#schedule" className="cta-primary" style={{ background: "linear-gradient(135deg, #0ea5c0, #0284c7)" }}>
+                View Schedule
+              </a>
               <a href="/registration" className="cta-secondary">
                 Register Now
               </a>

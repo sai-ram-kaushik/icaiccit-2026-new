@@ -58,6 +58,11 @@ const Navbar = () => {
                 Home
               </li>
             </Link>
+            <Link href="/#schedule">
+              <li className="ml-8 text-lg hover:text-cyan-600 text-[#0f766e] font-semibold">
+                Schedule
+              </li>
+            </Link>
             <Link href="/about">
               <li className="ml-8 text-lg hover:text-cyan-600 text-black">
                 About Us
@@ -157,6 +162,9 @@ const Navbar = () => {
             <ul className="uppercase mt-14 ">
               <Link href="/" onClick={handleNav}>
                 <li className="py-4 text-sm text-black">Home</li>
+              </Link>
+              <Link href="/#schedule" onClick={handleNav}>
+                <li className="py-4 text-sm text-[#0f766e] font-bold">Schedule</li>
               </Link>
               <Link href="/about" onClick={handleNav}>
                 <li className="py-4 text-sm text-black">About Us</li>
